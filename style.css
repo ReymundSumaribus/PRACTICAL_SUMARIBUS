@@ -1,0 +1,12 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: 200;
+}
+image{
+    line-height: normal;
+    border-width: 1cap;
+    line-height-step: 1;
+    background-image: -moz-repeating-linear-gradient();
+    mask-image: -moz-repeating-linear-gradient();
+}
